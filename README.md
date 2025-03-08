@@ -35,6 +35,8 @@ I'm always happy to connect with fellow developers to collaborate on projects, a
 - LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
 - Twitter: [@devnomso](https://twitter.com/devnomso)
 
----
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/nomsou"><img src="https://github-readme-stats.vercel.app/api?username=nomsou&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Nomso's GitHub stats" /></a>
 
 _P.S. I'm open to internship or entry-level roles! If you also want to collaborate on projects, bring ideas to life, or simply connect over our shared passion for tech. Reach out to me at [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com)._
