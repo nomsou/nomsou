@@ -37,7 +37,7 @@ I'm always happy to connect with fellow developers to collaborate on projects, a
 
 ### My Github Stats
 
-<a href="http://www.github.com/nomsou"><img src="https://github-readme-stats.vercel.app/api?username=nomsou&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Nomso's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/nomsou"><img src="https://github-readme-stats.vercel.app/api?username=nomsou&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Nomso's GitHub stats" /></a> -->
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nomsou" alt="GitHub Streak" /></a>
 
