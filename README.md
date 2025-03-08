@@ -19,7 +19,7 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 ## Tech Stack and Skills
 
-- ⚛️ React, Node.js, Next.js, 
+- ⚛️ React, Node.js, Next.js,
 - 🗄️ MongoDB, Firestore
 - ☁️ Firebase
 - ₿ Blockchain, Solidity, Thirdweb
@@ -35,11 +35,11 @@ I'm always happy to connect with fellow developers to collaborate on projects, a
 - LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
 - Twitter: [@devnomso](https://twitter.com/devnomso)
 
- ### My Github Stats
+### My Github Stats
 
 <a href="http://www.github.com/nomsou"><img src="https://github-readme-stats.vercel.app/api?username=nomsou&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Nomso's GitHub stats" /></a>
 
-<a href="http://www.github.com/nomsou"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajinomsou&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nomsou" alt="GitHub Streak" /></a>
 
 <!-- <a href="http://www.github.com/nomsou"><img src="https://activity-graph.herokuapp.com/graph?username=nomsou&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
