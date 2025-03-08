@@ -43,7 +43,7 @@ I'm always happy to connect with fellow developers to collaborate on projects, a
 
 <!-- <a href="http://www.github.com/nomsou"><img src="https://activity-graph.herokuapp.com/graph?username=nomsou&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<a href="https://github.com/nomsou" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomsou&langs_count=10&title_color=f97316&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nomsou" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomsou" alt="Top Languages" /></a>
 
 
 
