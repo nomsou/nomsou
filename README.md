@@ -1,16 +1,47 @@
-## Hi there 👋
+<!--![Tamunokorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokorite&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamunokorite)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--
-**nomsou/nomsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nomsounaogu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/devnomso">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+# Hey There! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Chukwunomso, a passionate software engineer who loves building things.
+
+## About Me
+
+- 🚀 Software Engineer | Blockchain and Full Stack Enthusiast
+- 🌱 Lifelong Learner | Problem Solver
+- 👨‍💻 Open to Internship and Entry-Level Opportunities
+
+## Tech Stack and Skills
+
+<!-- - 💻 Python, JavaScript, PHP, TypeScript -->
+
+- ⚛️ React, Node.js, Next.js, 
+- 🗄️ MongoDB, Firestore
+- ☁️ Firebase
+- ₿ Blockchain, Solidity, Thirdweb
+
+## Current Project: RefreeG
+
+🌐 I'm currently building (with a team) **RefreeG**, a hybrid crowdfunding platform designed to support socio-economic across Africa.The platform supports both Naira and cryptocurrency donations, ensuring that funds go directly to recipients without intermediaries.
+
+## Let's Connect and Code Together
+
+I'm always happy to connect with fellow developers to collaborate on projects, and learn from each other. Here's where you can find me:
+
+- LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
+- Twitter: [@devnomso](https://twitter.com/devnomso)
+
+<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tamunokorite.Tamunokorite)](https://github.com/Tamunokorite)-->
+
+---
+
+_P.S. I'm open to internship or entry-level roles! If you also want to collaborate on projects, bring ideas to life, or simply connect over our shared passion for tech. Reach out to me at [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com)._
