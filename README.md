@@ -26,7 +26,7 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 ## Current Project: RefreeG
 
-🌐 I'm currently building (with a team) **[RefreeG](https://refreeg.com)**, a hybrid crowdfunding platform designed to support socio-economic across Africa.The platform supports both Naira and cryptocurrency donations, ensuring that funds go directly to recipients without intermediaries.
+🌐 I'm currently building (with a team) **[RefreeG](https://refreeg.com)**, a hybrid crowdfunding platform designed to support socio-economic causes across Africa.The platform supports both Naira and cryptocurrency donations, ensuring that funds go directly to recipients without intermediaries.
 
 ## Let's Connect and Code Together
 
