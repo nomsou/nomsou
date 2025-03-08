@@ -15,7 +15,8 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 - 🚀 Software Engineer | Blockchain and Full Stack Enthusiast
 - 🌱 Lifelong Learner | Problem Solver
-- 👨‍💻 Open to Internship and Entry-Level Opportunities at [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com)._
+- 👨‍💻 Open to Internship and Entry-Level Opportunities.
+- 📧 [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com).
 
 ## Tech Stack and Skills
 
@@ -28,13 +29,6 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 🌐 I'm currently building (with a team) **[RefreeG](https://refreeg.com)**, a hybrid crowdfunding platform designed to support socio-economic causes across Africa.The platform supports both Naira and cryptocurrency donations, ensuring that funds go directly to recipients without intermediaries.
 
-## Let's Connect and Code Together
-
-I'm always happy to connect with fellow developers to collaborate on projects, and learn from each other. Here's where you can find me:
-
-- LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
-- Twitter: [@devnomso](https://twitter.com/devnomso)
-
 ### My Github Stats
 
 <!-- <a href="http://www.github.com/nomsou"><img src="https://github-readme-stats.vercel.app/api?username=nomsou&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Nomso's GitHub stats" /></a> -->
@@ -45,6 +39,13 @@ I'm always happy to connect with fellow developers to collaborate on projects, a
 
 <a href="https://github.com/nomsou" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomsou" alt="Top Languages" /></a>
 
+
+## Let's Connect and Code Together
+
+I'm always happy to connect with fellow developers to collaborate on projects, and learn from each other. Here's where you can find me:
+
+- LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
+- Twitter: [@devnomso](https://twitter.com/devnomso)
 
 
 _P.S. I'm open to internship or entry-level roles! If you also want to collaborate on projects, bring ideas to life, or simply connect over our shared passion for tech. Reach out to me at [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com)._
