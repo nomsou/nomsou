@@ -1,6 +1,3 @@
-<!--![Tamunokorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokorite&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamunokorite)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/nomsounaogu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,8 +19,6 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 ## Tech Stack and Skills
 
-<!-- - 💻 Python, JavaScript, PHP, TypeScript -->
-
 - ⚛️ React, Node.js, Next.js, 
 - 🗄️ MongoDB, Firestore
 - ☁️ Firebase
@@ -31,7 +26,7 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 ## Current Project: RefreeG
 
-🌐 I'm currently building (with a team) **RefreeG**, a hybrid crowdfunding platform designed to support socio-economic across Africa.The platform supports both Naira and cryptocurrency donations, ensuring that funds go directly to recipients without intermediaries.
+🌐 I'm currently building (with a team) **[RefreeG](https://refreeg.com)**, a hybrid crowdfunding platform designed to support socio-economic across Africa.The platform supports both Naira and cryptocurrency donations, ensuring that funds go directly to recipients without intermediaries.
 
 ## Let's Connect and Code Together
 
@@ -39,8 +34,6 @@ I'm always happy to connect with fellow developers to collaborate on projects, a
 
 - LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
 - Twitter: [@devnomso](https://twitter.com/devnomso)
-
-<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tamunokorite.Tamunokorite)](https://github.com/Tamunokorite)-->
 
 ---
 
