@@ -13,7 +13,7 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 
 ## About Me
 
-- 🚀 Software Engineer | Full STack and Blockchain Enthusiast
+- 🚀 Software Engineer | Frontend Developer
 - 🌱 Lifelong Learner | Problem Solver
 - 👨‍💻 Open to Internship and Entry-Level Opportunities.
 - 📧 [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com).
