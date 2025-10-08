@@ -21,7 +21,7 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 ## Tech Stack and Skills
 
 - ⚛️ React, Node.js, Next.js,
-- 🗄️ MongoDB, Firestore
+- 🗄️ Supabase, MongoDB, Firestore
 - ☁️ Firebase
 - ₿ Blockchain, Solidity, Thirdweb
 
@@ -45,7 +45,7 @@ I'm Chukwunomso, a passionate software engineer who loves building things.
 I'm always happy to connect with fellow developers to collaborate on projects, and learn from each other. Here's where you can find me:
 
 - LinkedIn: [Chukwunomso](<https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nomsounaogu/)>)
-- Twitter: [@devnomso](https://twitter.com/devnomso)
+<!-- - Twitter: [@devnomso](https://twitter.com/nomsoau) -->
 
 
 _P.S. I'm open to internship or entry-level roles! If you also want to collaborate on projects, bring ideas to life, or simply connect over our shared passion for tech. Reach out to me at [nomsounaogu@gmail.com](mailto:nomsounaogu@gmail.com)._
